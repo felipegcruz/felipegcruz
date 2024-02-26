@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on private projets
+- 🌱 I’m currently learning Python as much as I can...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I can play guitar with both hands
+
 <!--
 **felipegcruz/felipegcruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
