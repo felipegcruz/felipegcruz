@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on private projets
+- 🔭 I’m currently working on private projects
 - 🌱 I’m currently learning Python as much as I can...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can play guitar with both hands
